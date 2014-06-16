@@ -19,12 +19,12 @@ my homework for courses
 	- [**Task4Dot5**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork1/Task4Dot5.java) - Вводим два числа, сравнить последнии цифры этих чисел
 
 #####Example
-| Number1 | Number2 | Result |
-| ------- |:-------:| ------:|
-| 1234    |     4   | true   |
-| 1456    |     567 | false  |
-| 1       |     2   | false  |
-| 18      |     98  | true   |
+     | Number1 | Number2 | Result |
+     | ------- |:-------:| ------:|
+     | 1234    |     4   | true   |
+     | 1456    |     567 | false  |
+     | 1       |     2   | false  |
+     | 18      |     98  | true   |
 
 
 
@@ -37,9 +37,9 @@ my homework for courses
 - [**Task5Dot3**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork1/Task5Dot3.java) -Посчитать сколько раз встречается символ 8 в заданном числе, которое вводит юзер
 
 #####Example
-| Number | Result |
-| -------|:------:|
-| 5678   |  1     | 
-|	5889   |  2     | 
-| 8888   |  3     | 
-| 989990 |  1     | 
+      | Number | Result |
+      | -------|:------:|
+      | 5678   |  1     | 
+      |	5889   |  2     | 
+      | 8888   |  3     | 
+      | 989990 |  1     | 
