@@ -11,15 +11,12 @@ import java.util.Scanner;
 public class Task5Dot1 {
 
     public static void main(String[] args) {
-
         console();
-
     }
 
     public static  void console(){
-
         Scanner sc = new Scanner(System.in);
-        int select = 0;
+        int select;
         String menu = "1 - Convert number from decimal to binary\n" +
                       "2 - Convert number from binary to  decimal\n" +
                       "3 - Exit from program";
@@ -30,15 +27,11 @@ public class Task5Dot1 {
             select = sc.nextInt();
 
             if (select == 1){
-
                 System.out.println("Input decimal number: ");
                 select = sc.nextInt();
-
                 System.out.println("Number " +  select + " in binary = " + decConvert(select) + "\n");
 
             }else if (select == 2){
-
-
                 System.out.println("Input binary number: ");
                 select = sc.nextInt();
                 System.out.println("Number " +  select + " in binary = " + binConvert(select) + "\n");
