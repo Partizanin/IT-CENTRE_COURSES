@@ -11,7 +11,7 @@ import java.util.Scanner;
  *Time: 16:53.
  *To change this template use File|Settings|File Templates.
  */
-public class MorsKoiBoi {
+ class MorsKoiBoi {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Введите размер поля");
