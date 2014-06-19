@@ -31,11 +31,11 @@ my homework for courses
 
 - [**Task4Dot6**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork1/Task4Dot6.java) - Вводим два числа, вывести их суму, если она в диапазоне от 11 до 19
 
-- [**Task5Dot1**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork1/Task5Dot1.java) -Перевод с числа с десятичной системы счисления в двоичную, и наоборот. Пользователь сам вводит число
+ - [**Task5Dot1**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork1/Task5Dot1.java) -Перевод с числа с десятичной системы счисления в двоичную, и наоборот. Пользователь сам вводит число
 
-- [**Task5Dot2**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork1/Task5Dot2.java) -Вычислить факториал числа. 
+ - [**Task5Dot2**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork1/Task5Dot2.java) -Вычислить факториал числа. 
 
-- [**Task5Dot3**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork1/Task5Dot3.java) -Посчитать сколько раз встречается символ 8 в заданном числе, которое вводит юзер
+ - [**Task5Dot3**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork1/Task5Dot3.java) -Посчитать сколько раз встречается символ 8 в заданном числе, которое вводит юзер
 
 #####Example
 
