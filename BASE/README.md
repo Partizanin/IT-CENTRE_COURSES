@@ -84,3 +84,64 @@ My homework for courses
   
   - [**Task4Dot11**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot11.java) - 4.11  public static int[] splitArray(int[] arr, int start, int end) { // обрезать массив по границам start и 
   }
+
+- **HomeWork3**
+
+ - [**Task3**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3.java) - !! Матрицы генерировать случайными числами и размер матрицы вводит юзер. Посмотреть класс String и его методы
+
+ - [**Task3dot1**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot10.java) - Заменить все числа, которые делятся на 5 без остачи в двухмерной матрице на 8
+
+ - [**Task3dot2**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot2.java) - Создать логическую матрицу по следующим критериям, если і равно j, то элементом будет true.
+
+ - [**Task3dot3**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot3.java) - Написать метод, который проверяет является ли строка палиндромом
+ 
+ - [**Task3dot4**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot4.java) - Написать метод, который проверяет является ли строка палиндромом
+ 
+ - [**Task3dot4**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot4.java) - Создать массив, который будет состоять из диагонали матрици
+	    
+		1 3 5
+		4 5 7  -  1 5 6
+		4 5 6
+
+ - [**Task3dot5**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot5.java) - а) Поменять наибольшую строку массива с наименьшей в двухмерном массиве. (Размер - сумма элементов 
+ 
+     b) Поменять наибольший и наименьший столбик в двухмерном массиве.
+
+- [**Task3dot6**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot6.java) - Нули Требуется найти самую длинную непрерывную цепочку нулей  и единиц в последовательности цифр.
+
+	   	Вход:
+		10001101001
+		
+		Выход:
+		2  
+		4	
+		
+		
+ 
+ - [**Task3dot7**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot7.java) - Найти самое длинное слово в строке(разделенное одним пробелом)	
+ 
+
+ - [**Task3dot8**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot8.java) - Верхний регистр.
+
+Напишите программу, которая позволяет пользователю ввести в консоли строку,  переводит первый символ слов в верхний регистр и результат выводит в консоль
+	
+	
+	Вход: 
+	иван васильевич
+		
+	Выход:
+	Иван Васильевич
+	
+	    
+ - [**Task3dot9**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot9.java) - Умножить две матрицы.
+
+  - [**Task3dot10**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot10.java) - Удалить из предложения слова которые повторяются.
+   
+  - [**Task3dot11**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot11.java) - Повернуть матрицу(Двухмерный массив). Матрица квадратная.
+
+  - [**Task3dot12**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot12.java) - Строки. Ввод пароля.
+		Написать программу ввода пароля пользователя. Пользователь вводит пароль 2 раза. Пароль должен удовлетворять следующим требованиям:
+		- длинна пароля должна быть от 8 до 20 символов
+		- в пароле должны быть как маленькие так и большие буквы
+		- должны быть цифры
+		- не должен содержать слов 'password', 'pass', 'gfhjkm'
