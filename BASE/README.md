@@ -28,6 +28,8 @@ My homework for courses
 | 18      |     98  | true   |
 
 
+----------
+
 
 - [**Task4Dot6**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork1/Task4Dot6.java) - Вводим два числа, вывести их суму, если она в диапазоне от 11 до 19
 
@@ -46,4 +48,39 @@ My homework for courses
 | 8888   |  3     | 
 | 989990 |  1     | 
 
-to be continued
+
+----------
+
+
+- **HomeWork2**
+
+ - [**Task4Dot1**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot1.java) - Поменять две переменные местами, не используя дополнительную переменную
+
+
+ - [**Task4Dot2**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot2.java) - Найти минимальное и максимальное значения в массиве и вывести их на консоль
+ 
+
+  - [**Task4Dot3**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot3.java) - Найти минимальное и максимальное значения в массиве и поменять местами наибольший и наименьший элементы
+
+
+
+  - [**Task4Dot4**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot4.java) - Заданы два массива одинаковой длинны с любыми значениями	скопировать данные из первого массива во второй
+  
+
+  - [**Task4Dot5**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot5.java) - Заполнить массив случайными значениями
+  
+
+  - [**Task4Dot6**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot6.java) - Заполнить массив случайными значениями, поменять местами наибольший	и наименьший элементы
+  
+
+  - [**Task4Dot7**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot7.java) - Найти среднее арифметическое массива
+  
+
+  - [**Task4Dot8**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot8.java) - Вывести в консоль элементы той половины одномерного массива у которой среднее арифметическое максимальное	
+  
+  - [**Task4Dot9**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot9.java) - Eсть два массива одинаковой длины arr1 и arr2 вывести в консоль значения массива	который получается в результате суммы arr1[i] + arr2[i] 
+  
+  - [**Task4Dot10**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot10.java) - Задать два массива случайными числами от 8 до 80. Определить у какого из массива размерность Трико больше.(размерность Трико массива - это количество четных элементов).	
+  
+  - [**Task4Dot11**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot6.java) - 4.11  public static int[] splitArray(int[] arr, int start, int end) { // обрезать массив по границам start и 
+  }
