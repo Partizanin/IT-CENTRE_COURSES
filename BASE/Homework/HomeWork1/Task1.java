@@ -19,27 +19,24 @@ public class Task1 {
     }
 
     public static void serchMax2(int d,int e, int f){
-        int a = d;
-        int b = e;
-        int c = f;
-        int result = a * b;
-        if(a < b && a < c){
-            System.out.println("min = " + a);
-        }else if(b < a && b < c){
-            System.out.println("min = " + b);
-        }else if(c < a && c < b){
-            System.out.println("min = " + c);
+        int result = d * e;
+        if(d < e && d < f){
+            System.out.println("min = " + d);
+        }else if(e < d && e < f){
+            System.out.println("min = " + e);
+        }else if(f < d && f < e){
+            System.out.println("min = " + f);
         }
 
-        if(a > b && a > c){
-            System.out.println("max = " + a);
-        }else if(b > a && b > c){
-            System.out.println("max = " + b);
-        }else if(c > a && c > b){
-            System.out.println("max = " + c);
+        if(d > e && d > f){
+            System.out.println("max = " + d);
+        }else if(e > d && e > f){
+            System.out.println("max = " + e);
+        }else if(f > d && f > e){
+            System.out.println("max = " + f);
         }
 
-        if(result < c){
+        if(result < f){
             System.out.println("True");
         }else{
             System.out.println("False");
