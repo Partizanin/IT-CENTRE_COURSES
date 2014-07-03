@@ -82,5 +82,5 @@ My homework for courses
   
   - [**Task4Dot10**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot10.java) - Задать два массива случайными числами от 8 до 80. Определить у какого из массива размерность Трико больше.(размерность Трико массива - это количество четных элементов).	
   
-  - [**Task4Dot11**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot6.java) - 4.11  public static int[] splitArray(int[] arr, int start, int end) { // обрезать массив по границам start и 
+  - [**Task4Dot11**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot11.java) - 4.11  public static int[] splitArray(int[] arr, int start, int end) { // обрезать массив по границам start и 
   }
