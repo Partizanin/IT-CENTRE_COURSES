@@ -89,7 +89,7 @@ My homework for courses
 
  - [**Task3**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3.java) - !! Матрицы генерировать случайными числами и размер матрицы вводит юзер. Посмотреть класс String и его методы
 
- - [**Task3dot1**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork2/Task4dot10.java) - Заменить все числа, которые делятся на 5 без остачи в двухмерной матрице на 8
+ - [**Task3dot1**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot1.java) - Заменить все числа, которые делятся на 5 без остачи в двухмерной матрице на 8
 
  - [**Task3dot2**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot2.java) - Создать логическую матрицу по следующим критериям, если і равно j, то элементом будет true.
 
