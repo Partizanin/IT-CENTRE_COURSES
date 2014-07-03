@@ -95,7 +95,6 @@ My homework for courses
 
  - [**Task3dot3**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot3.java) - Написать метод, который проверяет является ли строка палиндромом
  
- - [**Task3dot4**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot4.java) - Написать метод, который проверяет является ли строка палиндромом
  
  - [**Task3dot4**](https://github.com/Partizanin/IT-CENTRE_COURSES/blob/master/BASE/Homework/HomeWork3/Task3dot4.java) - Создать массив, который будет состоять из диагонали матрици
 	    
